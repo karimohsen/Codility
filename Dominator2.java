@@ -1,8 +1,5 @@
 package org.codility;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Dominator2 {
 	//Better Solution
     public static int solution(int[] A) {
